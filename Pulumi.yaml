@@ -1,0 +1,3 @@
+name: pulumi-fsharp-playground
+runtime: dotnet
+description: An fsharp playground
